@@ -6,3 +6,5 @@ https://motherboard.vice.com/en_us/article/neejqw/the-shadow-brokers-have-made-a
 
 https://www.blackhat.com/us-17/briefings.html#the-shadow-brokers-%E2%80%93-cyber-fear-game-changers
 try to find talk
+
+http://www.securityweek.com/shadow-brokers-release-tool-used-nsa-hack-pcs?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Securityweek+%28SecurityWeek+RSS+Feed%29
