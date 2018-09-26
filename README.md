@@ -13,3 +13,5 @@ https://www.v3.co.uk/v3-uk/news/3012927/nsa-exploits-absorbed-into-notpetya-malw
 
 https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
 read analysis and see if agree
+
+https://www.securityweek.com/ex-nsa-hacker-sentenced-jail-over-kaspersky-leak - EQGRP leak confirmed by Kaspersky
